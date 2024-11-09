@@ -21,7 +21,7 @@ All code is developed in **Python 3.9** 🐍 using **PyCharm IDE** 💻. Below a
 
 ![image](https://github.com/user-attachments/assets/8df90782-f33a-4bc9-abda-2b144687c5ad)
 
-↑↑↑ Set configuration of our workstation running this repository
+↑↑↑ Set configuration of our workstation running this repository.
 
 
 Before submitting these codes to Github, all of them have been tested to be well-performed (as shown in the screwshots). Even so, we are not able to guarantee their operation in other computing environments due to the differences in the python version, computer operating system, and adopted hardware.
@@ -40,11 +40,11 @@ Before submitting these codes to Github, all of them have been tested to be well
  
 https://github.com/user-attachments/assets/c1b962a8-b48f-4cad-81e0-ee718074758b
 
-
+↓↓↓ All codes could be found below.
 
 ![image](https://github.com/user-attachments/assets/33d14148-2bc8-4650-8364-210fd6dff7ff)
 
-↑↑↑ All codes could be found above
+
 
 ### 2.4 Compare the performance of Gemma 2, Llama 3.2 & Phi 3 in sentiment labeling
 
