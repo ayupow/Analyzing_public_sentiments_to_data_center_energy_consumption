@@ -26,8 +26,10 @@ Before submitting these codes to Github, all of them have been tested to be well
 ### 2.2 Mine posts and comments from twitter
 
 
-↑↑↑ All codes could be found below
+↑↑↑ A video to showcase the data mining from Twitter.
 
+
+↑↑↑ All codes could be found below
 
 
 ### 2.3 Sentiment labeling by Gemma 2, Llama 3.2 & Phi 3
@@ -48,6 +50,7 @@ https://github.com/user-attachments/assets/c1b962a8-b48f-4cad-81e0-ee718074758b
 
 ↑↑↑ Screenshots of the Precision, Recall, and F1-score of Gemma 2, Llama 3.2, and Phi 3.
 
+![image](https://github.com/user-attachments/assets/acaaf867-c41f-4942-a1af-e37ee753e844)
 
 ↑↑↑ Codes for calculating the Precision, Recall and F1-score could be found above
 
