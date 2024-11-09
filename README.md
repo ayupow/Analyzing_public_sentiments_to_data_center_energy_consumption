@@ -1,43 +1,52 @@
 # Analyzing_public_sentiments_to_data_center_energy_consumption
 
-!!! As the paper is under review, all contents in this repository currently are not allowed to be re-used by anyone until this announcement is deleted.
+__!!! As the paper is under review, all contents in this repository currently are not allowed to be re-used by anyone until this announcement is deleted.__
 
 
 ## 1. Summary of supplemental materials
-This table below shows all supplemental materials. All sheets in Tables S1, S2, S3, and S4 are arranged in the order shown in this table.
+This table below shows all supplemental materials. All sheets in Tables S1, S2, and S3  are arranged in the order shown in this table.
 
-image
+
 
 ## 2. Introduction
-### 2.1 This repository aims at providing the codes and data regarding the paper entitled “……” for the public, and it is developed by XXX University of XXX in Singapore and XXX University in China.
+### 2.1 Objective 
+This repository aims at providing the codes and data regarding the paper entitled “……” for the public, and it is developed by XXX University of XXX in Singapore and XXX University in China.
+### 2.2 Acknowledgement
+We greatly appreciate the selfless spirits of these voluntary contributors of a series of open python libraries, including Ollama (https://github.com/ollama/ollama), meta-llama (https://github.com/meta-llama/llama), google-gemini (https://github.com/google-gemini/gemma-cookbook), some base works (https://github.com/Data4Democracy/media-crawler, https://github.com/jeffreyxchan/Twitter-Crawler), and so on. Our work stands on the shoulders of these giants.
+### 2.3 Copyright
+As for anything regarding the copyright, please refer to the MIT License or contact the authors.
 
-### 2.2 We greatly appreciate the selfless spirits of these voluntary contributors of a series of open python libraries, including Ollama (https://github.com/ollama/ollama), meta-llama (https://github.com/meta-llama/llama), google-gemini (https://github.com/google-gemini/gemma-cookbook), some base works (https://github.com/Data4Democracy/media-crawler, https://github.com/jeffreyxchan/Twitter-Crawler), and so on. Our work stands on the shoulders of these giants.
-
-### 2.3 As for anything regarding the copyright, please refer to the MIT License or contact the authors.
-
-3 Repository reuse
+## 3 Repository reuse
 ### 3.1 Set environment
-All codes are developed on Python 3.9, and the IDE adopted is PyCharm. The workstation parameters for running these codes are as follows.
-![image](https://github.com/user-attachments/assets/37dbb0e3-ce6b-4a07-839e-0789a2ef1973)
+All codes are developed on Python 3.9, and the IDE adopted is PyCharm. The hardwares for running these codes are as follows.
+
+![image](https://github.com/user-attachments/assets/8df90782-f33a-4bc9-abda-2b144687c5ad)
 
 Before submitting these codes to Github, all of them have been tested to be well-performed (as shown in the screwshots). Even so, we are not able to guarantee their operation in other computing environments due to the differences in the python version, computer operating system, and adopted hardware.
 
-3.2 Download the embedding models
-image
+### 3.2 Mining posts and comments from twitter
 
-↑↑↑Embeddings are available through this link (https://drive.google.com/drive/folders/1oG5OD3u6-igaUfYAw9ekMQYJzJZisR8A?usp=sharing)
 
-3.3 Reuse or Retrain the models
-3.3.1 Models directly for reuses
-image
+↑↑↑ All codes could be found below
 
-↑↑↑Developed models for sentiment analysis models (https://drive.google.com/drive/folders/1oG5OD3u6-igaUfYAw9ekMQYJzJZisR8A?usp=sharing)
 
-image
 
-↑↑↑Developed models for topic classification models (https://drive.google.com/drive/folders/1oG5OD3u6-igaUfYAw9ekMQYJzJZisR8A?usp=sharing)
+### 3.3 Sentiment labeling by Gemma 2, Llama 3.2 & Phi 3
 
-3.3.2 Codes for retraining the models
-image ↑↑↑Codes for retraining the sentiment analysis models
 
-image ↑↑↑Codes for retraining the topic classification models
+↑↑↑ All codes could be found below
+
+
+### 3.3 Performance comparison between Gemma 2, Llama 3.2 & Phi 3
+
+![Screenshot of F1-score of gemma 2](https://github.com/user-attachments/assets/9fa4caaf-7295-4a39-b756-5217f694b245)
+![Screenshot of F1-score of llama 3 2](https://github.com/user-attachments/assets/a507e110-36fe-4194-9795-036d11cf9f6a)
+![Screenshot of F1-score of phi 3](https://github.com/user-attachments/assets/2a881520-0bf7-449f-867c-864417e3fea9)
+
+↑↑↑ All codes could be found below
+
+
+### 3.4 Topic labeling by Gemma 2
+
+
+
