@@ -76,6 +76,7 @@ https://github.com/user-attachments/assets/c1b962a8-b48f-4cad-81e0-ee718074758b
 ![11月9日 (1)](https://github.com/user-attachments/assets/1d0142a9-de5c-4891-8266-a053700bd105)
 
 ↑↑↑ Negative topic classification based on Gemma2.
+
 ↓↓↓ Codes for positive and negative topic labeling could be found below
 
 ![image](https://github.com/user-attachments/assets/9c8139dc-07ca-49b9-974c-7b171c0f5c19)
