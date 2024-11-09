@@ -8,15 +8,15 @@ This table below shows all supplemental materials. All sheets in Tables S1, S2, 
 
 image
 
-2. General Introduction
-2.1 This repository aims at providing the codes and data regarding the paper entitled “……” for the public, and it is developed by XXX University of XXX in Singapore and XXX University in China.
+## 2. Introduction
+### 2.1 This repository aims at providing the codes and data regarding the paper entitled “……” for the public, and it is developed by XXX University of XXX in Singapore and XXX University in China.
 
-2.2 We greatly appreciate the selfless spirits of these voluntary contributors of a series of open python libraries, including Ollama (https://github.com/ollama/ollama), meta-llama (https://github.com/meta-llama/llama), google-gemini (https://github.com/google-gemini/gemma-cookbook), some base works (https://github.com/Data4Democracy/media-crawler, https://github.com/jeffreyxchan/Twitter-Crawler), and so on. Our work stands on the shoulders of these giants.
+### 2.2 We greatly appreciate the selfless spirits of these voluntary contributors of a series of open python libraries, including Ollama (https://github.com/ollama/ollama), meta-llama (https://github.com/meta-llama/llama), google-gemini (https://github.com/google-gemini/gemma-cookbook), some base works (https://github.com/Data4Democracy/media-crawler, https://github.com/jeffreyxchan/Twitter-Crawler), and so on. Our work stands on the shoulders of these giants.
 
-2.3 As for anything regarding the copyright, please refer to the MIT License or contact the authors.
+### 2.3 As for anything regarding the copyright, please refer to the MIT License or contact the authors.
 
 3 Repository reuse
-3.1 Set environment
+### 3.1 Set environment
 All codes are developed on Python 3.9, and the IDE adopted is PyCharm. The workstation parameters for running these codes are as follows.
 ![image](https://github.com/user-attachments/assets/37dbb0e3-ce6b-4a07-839e-0789a2ef1973)
 
