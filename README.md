@@ -28,8 +28,9 @@ Before submitting these codes to Github, all of them have been tested to be well
 
 ### 2.2 Mine posts and comments from twitter
 
+https://github.com/user-attachments/assets/b0bdbe0e-6b89-4528-925c-2dd4259719c3
 
-↑↑↑ A video to showcase the data mining from Twitter.
+↑↑↑ A video to showcase the data mining from Twitter, all collected social media data could be found in Table S1.
 
 
 ↑↑↑ All codes could be found below
