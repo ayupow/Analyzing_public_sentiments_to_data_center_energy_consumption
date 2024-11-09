@@ -32,6 +32,15 @@ Before submitting these codes to Github, all of them have been tested to be well
 
 
 ### 3.3 Sentiment labeling by Gemma 2, Llama 3.2 & Phi 3
+3.3.1 Sentiment prompt 
+
+![image](https://github.com/user-attachments/assets/426992c4-346d-4f1f-b2aa-64fae36c6469)
+↑↑↑ Sentiment prompt for LLMs in sentiment labeling.
+3.3.2 Sentiment labeling
+
+https://github.com/user-attachments/assets/c1b962a8-b48f-4cad-81e0-ee718074758b
+
+↑↑↑ A video to showcase the sentiment labeling process based on Llama 3.2.
 
 
 ↑↑↑ All codes could be found below
@@ -48,5 +57,22 @@ Before submitting these codes to Github, all of them have been tested to be well
 
 ### 3.4 Topic labeling by Gemma 2
 
+3.4.1 Topic prompts
 
+![image](https://github.com/user-attachments/assets/3cd49eb7-4ff3-4a92-ad5c-61d4e3355d33)
 
+↑↑↑ Positive topic prompt for LLMs in topic classification.
+
+![image](https://github.com/user-attachments/assets/a06d2ce2-f0ac-4e5e-9049-3e7c4eaa99ce)
+
+↑↑↑ Negative topic prompt for LLMs in topic classification.
+
+3.4.2 Topic labeling
+
+![positive topic](https://github.com/user-attachments/assets/1f4cb64c-93f1-4295-b3bc-ea47f5db8876)
+
+↑↑↑ Positive topic classification based on Gemma2.
+
+![11月9日 (1)](https://github.com/user-attachments/assets/1d0142a9-de5c-4891-8266-a053700bd105)
+
+↑↑↑ Negative topic classification based on Gemma2.
