@@ -1,6 +1,6 @@
 # Analyzing_public_sentiments_to_data_center_energy_consumption
 
-# ⚠️ Important Notice ⚠️
+## ⚠️ Important Notice ⚠️
 __As the paper is under review, all contents in this repository are currently not permitted for reuse by anyone until this announcement is removed. Thank you for your understanding! 🙏__
 ## 0. Summary of supplemental materials
 This table below shows all supplemental materials. All sheets in Tables S1, S2, and S3  are arranged in the order shown in this table.
@@ -17,9 +17,11 @@ As for anything regarding the copyright, please refer to the MIT License or cont
 
 ## 2 Reuse ths repository
 ### 2.1 Set environment
-All codes are developed on Python 3.9, and the IDE adopted is PyCharm. The hardwares for running these codes are as follows.
+All code is developed in **Python 3.9** 🐍 using **PyCharm IDE** 💻. Below are the hardware specifications of the workstation used to run this code. These specifications are listed for reference only and do not represent the minimum requirements to run the project.
 
 ![image](https://github.com/user-attachments/assets/8df90782-f33a-4bc9-abda-2b144687c5ad)
+
+Feel free to experiment with different setups! 🚀
 
 Before submitting these codes to Github, all of them have been tested to be well-performed (as shown in the screwshots). Even so, we are not able to guarantee their operation in other computing environments due to the differences in the python version, computer operating system, and adopted hardware.
 
