@@ -32,11 +32,6 @@ Before submitting these codes to Github, all of them have been tested to be well
 
 
 ### 3.3 Sentiment labeling by Gemma 2, Llama 3.2 & Phi 3
-3.3.1 Sentiment prompt 
-
-![image](https://github.com/user-attachments/assets/426992c4-346d-4f1f-b2aa-64fae36c6469)
-↑↑↑ Sentiment prompt for LLMs in sentiment labeling.
-3.3.2 Sentiment labeling
 
 https://github.com/user-attachments/assets/c1b962a8-b48f-4cad-81e0-ee718074758b
 
@@ -51,6 +46,10 @@ https://github.com/user-attachments/assets/c1b962a8-b48f-4cad-81e0-ee718074758b
 ![Screenshot of F1-score of gemma 2](https://github.com/user-attachments/assets/9fa4caaf-7295-4a39-b756-5217f694b245)
 ![Screenshot of F1-score of llama 3 2](https://github.com/user-attachments/assets/a507e110-36fe-4194-9795-036d11cf9f6a)
 ![Screenshot of F1-score of phi 3](https://github.com/user-attachments/assets/2a881520-0bf7-449f-867c-864417e3fea9)
+
+
+
+
 
 ↑↑↑ All codes could be found below
 
