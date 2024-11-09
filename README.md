@@ -36,10 +36,11 @@ Before submitting these codes to Github, all of them have been tested to be well
 
 
 ### 2.3 Sentiment labeling by Gemma 2, Llama 3.2 & Phi 3
-
+↓↓↓ A video to showcase the sentiment labeling process based on Llama 3.2.
+ 
 https://github.com/user-attachments/assets/c1b962a8-b48f-4cad-81e0-ee718074758b
 
-↑↑↑ A video to showcase the sentiment labeling process based on Llama 3.2.
+
 
 ![image](https://github.com/user-attachments/assets/33d14148-2bc8-4650-8364-210fd6dff7ff)
 
