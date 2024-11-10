@@ -49,9 +49,9 @@ https://github.com/user-attachments/assets/c1b962a8-b48f-4cad-81e0-ee718074758b
 
 ### 2.4 Compare the performance of Gemma 2, Llama 3.2 & Phi 3 in sentiment labeling
 
-![Screenshot of F1-score of gemma 2](https://github.com/user-attachments/assets/9fa4caaf-7295-4a39-b756-5217f694b245)
-![Screenshot of F1-score of llama 3 2](https://github.com/user-attachments/assets/a507e110-36fe-4194-9795-036d11cf9f6a)
-![Screenshot of F1-score of phi 3](https://github.com/user-attachments/assets/2a881520-0bf7-449f-867c-864417e3fea9)
+![Screenshot of F1-score of gemma 2](https://github.com/user-attachments/assets/ac192995-18c5-40fa-b3c4-c11d09b5202e)
+![Screenshot of F1-score of llama 3 2](https://github.com/user-attachments/assets/1d21091e-96da-44a0-89e8-2333e0c277be)
+![Screenshot of F1-score of phi 3](https://github.com/user-attachments/assets/93a03eb5-349e-425d-9a97-86a33d813c2f)
 
 ↑↑↑ Screenshots of the Precision, Recall, and F1-score of Gemma 2, Llama 3.2, and Phi 3.
 
