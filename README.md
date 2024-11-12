@@ -64,11 +64,11 @@ https://github.com/user-attachments/assets/c1b962a8-b48f-4cad-81e0-ee718074758b
 
 3.4.1 Topic prompts
 
-![image](https://github.com/user-attachments/assets/3cd49eb7-4ff3-4a92-ad5c-61d4e3355d33)
+![image](https://github.com/user-attachments/assets/a06d2ce2-f0ac-4e5e-9049-3e7c4eaa99ce)
 
 ↑↑↑ Positive topic prompt for LLMs in topic classification.
 
-![image](https://github.com/user-attachments/assets/a06d2ce2-f0ac-4e5e-9049-3e7c4eaa99ce)
+![image](https://github.com/user-attachments/assets/3cd49eb7-4ff3-4a92-ad5c-61d4e3355d33)
 
 ↑↑↑ Negative topic prompt for LLMs in topic classification.
 
