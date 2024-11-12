@@ -80,11 +80,11 @@ https://github.com/user-attachments/assets/c1b962a8-b48f-4cad-81e0-ee718074758b
 
 ![positive topic](https://github.com/user-attachments/assets/1f4cb64c-93f1-4295-b3bc-ea47f5db8876)
 
-↑↑↑ A .gif to show positive topic classification based on Gemma2.
+↑↑↑ A GIF to show positive topic classification based on Gemma2.
 
 ![11月9日 (1)](https://github.com/user-attachments/assets/1d0142a9-de5c-4891-8266-a053700bd105)
 
-↑↑↑ A .gif to show negative topic classification based on Gemma2.
+↑↑↑ A GIF to show negative topic classification based on Gemma2.
 
 
 
