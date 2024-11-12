@@ -62,7 +62,7 @@ https://github.com/user-attachments/assets/c1b962a8-b48f-4cad-81e0-ee718074758b
 
 ### 2.5 Topic labeling by Gemma 2
 
-2.5.1 Topic prompts
+#### 2.5.1 Topic prompts
 
 ![image](https://github.com/user-attachments/assets/a06d2ce2-f0ac-4e5e-9049-3e7c4eaa99ce)
 
@@ -72,7 +72,7 @@ https://github.com/user-attachments/assets/c1b962a8-b48f-4cad-81e0-ee718074758b
 
 ↑↑↑ Negative topic prompt for LLMs in topic classification.
 
-2.5.2 Topic labeling
+#### 2.5.2 Topic labeling
 
 ↓↓↓ Codes for positive and negative topic labeling could be found below
 
