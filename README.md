@@ -17,7 +17,7 @@ As for anything regarding the copyright, please refer to the MIT License or cont
 
 ## 2 Reuse ths repository
 ### 2.1 Set environment
-All code is developed in **Python 3.9** 🐍 using **PyCharm IDE** 💻. Below are the hardware specifications of the workstation used to run this code. These specifications are listed for reference only and do not represent the minimum requirements to run the project. Feel free to experiment with different setups! 🚀
+All code is developed in **Python 3.9** using **PyCharm IDE**. Below are the hardware specifications of the workstation used to run this code. These specifications are listed for reference only and do not represent the minimum requirements to run the project. Feel free to experiment with different setups! 🚀
 
 ![image](https://github.com/user-attachments/assets/8df90782-f33a-4bc9-abda-2b144687c5ad)
 
