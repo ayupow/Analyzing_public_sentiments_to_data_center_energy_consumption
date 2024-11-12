@@ -5,6 +5,7 @@ __As the paper is under review, all contents in this repository are currently no
 ## 0. Summary of supplemental materials
 This table below shows all supplemental materials. All sheets in Tables S1 and S2 are arranged in the order shown in this table.
 
+![image](https://github.com/user-attachments/assets/26b75cd3-470f-4a54-a778-29c52c160899)
 
 ## 1. Introduction
 ### 1.1 Objective 
