@@ -27,14 +27,14 @@ All code is developed in **Python 3.9** using **PyCharm IDE**. Below are the har
 
 Before submitting these codes to Github, all of them have been tested to be well-performed (as shown in the screwshots). Even so, we are not able to guarantee their operation in other computing environments due to the differences in the python version, computer operating system, and adopted hardware.
 
-### 2.2 Mine posts and comments from twitter
+### 2.2 Mine posts and comments from Twitter
 
 https://github.com/user-attachments/assets/b0bdbe0e-6b89-4528-925c-2dd4259719c3
 
 ↑↑↑ A video to showcase the data mining from Twitter, all collected social media data could be found in Table S1.
 
 
-↑↑↑ All codes could be found below
+↓↓↓ All codes could be found below
 
 
 ### 2.3 Sentiment labeling by Gemma 2, Llama 3.2 & Phi 3
@@ -50,20 +50,19 @@ https://github.com/user-attachments/assets/c1b962a8-b48f-4cad-81e0-ee718074758b
 
 ### 2.4 Compare the performance of Gemma 2, Llama 3.2 & Phi 3 in sentiment labeling
 
+![image](https://github.com/user-attachments/assets/acaaf867-c41f-4942-a1af-e37ee753e844)
+
+↑↑↑ Codes for calculating the Precision, Recall and F1-score could be found above
+
 ![Screenshot of F1-score of gemma 2](https://github.com/user-attachments/assets/ac192995-18c5-40fa-b3c4-c11d09b5202e)
 ![Screenshot of F1-score of llama 3 2](https://github.com/user-attachments/assets/1d21091e-96da-44a0-89e8-2333e0c277be)
 ![Screenshot of F1-score of phi 3](https://github.com/user-attachments/assets/93a03eb5-349e-425d-9a97-86a33d813c2f)
 
 ↑↑↑ Screenshots of the Precision, Recall, and F1-score of Gemma 2, Llama 3.2, and Phi 3.
 
-![image](https://github.com/user-attachments/assets/acaaf867-c41f-4942-a1af-e37ee753e844)
-
-↑↑↑ Codes for calculating the Precision, Recall and F1-score could be found above
-
-
 ### 2.5 Topic labeling by Gemma 2
 
-3.4.1 Topic prompts
+2.5.1 Topic prompts
 
 ![image](https://github.com/user-attachments/assets/a06d2ce2-f0ac-4e5e-9049-3e7c4eaa99ce)
 
@@ -73,7 +72,11 @@ https://github.com/user-attachments/assets/c1b962a8-b48f-4cad-81e0-ee718074758b
 
 ↑↑↑ Negative topic prompt for LLMs in topic classification.
 
-3.4.2 Topic labeling
+2.5.2 Topic labeling
+
+↓↓↓ Codes for positive and negative topic labeling could be found below
+
+![image](https://github.com/user-attachments/assets/9c8139dc-07ca-49b9-974c-7b171c0f5c19)
 
 ![positive topic](https://github.com/user-attachments/assets/1f4cb64c-93f1-4295-b3bc-ea47f5db8876)
 
@@ -83,8 +86,6 @@ https://github.com/user-attachments/assets/c1b962a8-b48f-4cad-81e0-ee718074758b
 
 ↑↑↑ A .gif to show negative topic classification based on Gemma2.
 
-↓↓↓ Codes for positive and negative topic labeling could be found below
 
-![image](https://github.com/user-attachments/assets/9c8139dc-07ca-49b9-974c-7b171c0f5c19)
 
 
