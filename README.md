@@ -1,8 +1,6 @@
 # Analyzing_public_sentiments_to_data_center_energy_consumption
 
-## ⚠️ Important Notice ⚠️
-__As the paper is under review, all contents in this repository are currently not permitted for reuse by anyone until this announcement is removed. Thank you for your understanding! 🙏__
-## 0. Summary of supplemental materials
+0. 
 This table below shows all supplemental materials. All sheets in Tables S1 and S2 are arranged in the order shown in this table.
 
 ![image](https://github.com/user-attachments/assets/7293fe61-24ba-4601-bb44-3ad4664ed01e)
